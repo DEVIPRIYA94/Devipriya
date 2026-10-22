@@ -1,0 +1,20 @@
+//no7
+//Area & Perimeter
+int length=22;
+int breadth=17;
+float pi=3.14;
+printf("\n Area of Rectangle:%d",length*breadth);
+printf("\n perimeter of area=%d",2*(length+breadth));
+
+int side=14;
+printf("\n Area of Square:%d",side*side);
+printf("\n perimeter of Square=%d",4*(side));
+
+ float radius=14.6;
+ printf("\n Area of Circle:%f",pi*radius*radius);
+ printf("\n Circumference of Circle=%f",2*pi*radius);
+
+ //no8
+ //celusius to fahrenheit
+ float celusius =102.7;
+ printf("\n Fahrenheit = %f",(celusius*9/5)+32);
